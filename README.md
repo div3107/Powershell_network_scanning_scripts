@@ -16,8 +16,8 @@ Feel free to explore and contribute! 🚀
 ---
 
 ### Contact:
-- GitHub: [Lostboy's GitHub](https://github.com/Lostboy)
-- LinkedIn: [Lostboy LinkedIn](https://www.linkedin.com/in/lostboy)
+- GitHub: [Lostboy's GitHub](https://github.com/3107)
+- LinkedIn: [Lostboy LinkedIn](https://www.linkedin.com/in/divyanshu-gupta-sec3107)
 
 # Powershell_network_scanning_scripts
 PowerShell Scripts for Network Scanning  A collection of efficient and powerful PowerShell scripts designed for network reconnaissance, host enumeration, and port scanning. This repository provides various tools to help security professionals and network administrators quickly gather valuable information about the systems and networks they manage.
@@ -60,7 +60,7 @@ The script takes two parameters:
 
 #### Example Usage
 
-1. **Scan a local network range:**
+**Scan a local network range:**
 
 ```powershell
 .\netdiscovery.ps1 -ip_network "192.168.1." -ip_range (1..255)
@@ -92,7 +92,7 @@ The script accepts the following parameters:
 
 #### Example Usage
 
-1. **Scan a range of IP addresses for specific ports:**
+**Scan a range of IP addresses for specific ports:**
 
 ```powershell
 .\portstorm.ps1 -ip_network "192.168.1." -ip_range (1..254) -port_range (80, 443, 22)
