@@ -16,7 +16,6 @@ Feel free to explore and contribute! 🚀
 ---
 
 ### Contact:
-- GitHub: [Lostboy's GitHub](https://github.com/3107)
 - LinkedIn: [Lostboy LinkedIn](https://www.linkedin.com/in/divyanshu-gupta-sec3107)
 
 # Powershell_network_scanning_scripts
@@ -31,7 +30,7 @@ A local enumeration script that gathers key system information, such as:
 - Network configuration (IP address, active TCP connections)
 - Disk information (storage usage)
 
-#### Usage:
+#### Example Usage:
 ```powershell
 .\enumerator.ps1
 ```
