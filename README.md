@@ -1,15 +1,23 @@
-$banner = @"
-  ________              _______  _____     ________   _____ _______   ________   _____  
- /  _____/             |   ____| \__  \   |  ____|   |  __ \__   __| |  __ \  |   __ \  
-|  /  __/___  ___  ___ | |__     __|  |   | |__      | |__)  |  |   | | |__) | |  |__) |
-| /  /_  / _ \/ _ \/ _ \  ___/   |__  |    |  __|     |  ___/ |__  | |   __/ |    __/   
-|/  /  /  (_)  |  __/   __ |    | ____)  |    | |___   | |___   ___|  |     ___|  |     
-|_________/ \___|____| / |__|___/__/      /_____/|     |/   /__/      /______|
+# 🖥️ **Network Scanning PowerShell Scripts** 🖥️
 
-                         PowerShell Scripts for Network Scanning                        
-                                Created by Lostboy                                    
-"@
-Write-Host $banner -ForegroundColor Cyan
+## Created by **Lostboy** 🦸‍♂️
+
+---
+
+Welcome to the **Network Scanning PowerShell Scripts** repository! This repo contains various PowerShell scripts designed for network scanning tasks, including IP range scanning, port scanning, and system enumeration. 
+
+### Scripts Included:
+- **netdiscovery.ps1** - A script to discover active hosts in a specified IP range.
+- **portstorm.ps1** - A fast and asynchronous port scanner.
+- **enumerator.ps1** - A script for gathering essential system information and performing local enumeration.
+
+Feel free to explore and contribute! 🚀
+
+---
+
+### Contact:
+- GitHub: [Lostboy's GitHub](https://github.com/Lostboy)
+- LinkedIn: [Lostboy LinkedIn](https://www.linkedin.com/in/lostboy)
 
 # Powershell_network_scanning_scripts
 PowerShell Scripts for Network Scanning  A collection of efficient and powerful PowerShell scripts designed for network reconnaissance, host enumeration, and port scanning. This repository provides various tools to help security professionals and network administrators quickly gather valuable information about the systems and networks they manage.
